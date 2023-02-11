@@ -383,7 +383,9 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"formulahendry.code-runner"
+				"formulahendry.code-runner",
+				"vscjava.vscode-java-test",
+				"ms-vscode-remote.remote-containers"
 			]
 		}
 	}
