@@ -392,7 +392,8 @@
 				"msjsdiag.cordova-tools",
 				"JOB.amiga-debug-job",
 				"ms-azuretools.vscode-azurestorage",
-				"utsavm9.c-cpp-flag-debugging"
+				"utsavm9.c-cpp-flag-debugging",
+				"BroadcomMFD.debugger-for-mainframe"
 			]
 		}
 	}
