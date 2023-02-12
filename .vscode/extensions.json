@@ -1,5 +1,8 @@
 {
-    "recommendations": [
-        "ms-vscode-remote.remote-containers"
-    ]
+  "recommendations": [
+    "ms-azuretools.vscode-azurefunctions",
+    "ms-vscode-remote.remote-containers",
+    "msjsdiag.cordova-tools",
+    "ionide.ionide-fsharp"
+]
 }
