@@ -387,7 +387,8 @@
 				"vscjava.vscode-java-test",
 				"ms-vscode-remote.remote-containers",
 				"eg2.vscode-npm-script",
-				"msjsdiag.debugger-for-chrome"
+				"msjsdiag.debugger-for-chrome",
+				"Unity.unity-debug"
 			]
 		}
 	}
