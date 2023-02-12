@@ -390,7 +390,8 @@
 				"msjsdiag.debugger-for-chrome",
 				"Unity.unity-debug",
 				"msjsdiag.cordova-tools",
-				"JOB.amiga-debug-job"
+				"JOB.amiga-debug-job",
+				"ms-azuretools.vscode-azurestorage"
 			]
 		}
 	}
